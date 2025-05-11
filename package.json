@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Zee-2000", 
+	"author": "Zee-2000  (https://github.com/Zee-2000)", 
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
